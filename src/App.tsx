@@ -59,8 +59,8 @@ const portfolioContent = {
     { label: 'Projects', href: '/projects' },
   ],
   socials: [
-    { label: 'GitHub', value: 'github.com/your-handle', href: 'https://github.com/MDMasayekh-Dev', icon: Github },
-    { label: 'LinkedIn', value: 'linkedin.com/in/your-handle', href: 'www.linkedin.com/in/masayekh-ahammed-akhshad-787a23183', icon: Linkedin },
+    { label: 'GitHub', value: 'github.com/MDMasayekh-Dev', href: 'https://github.com/MDMasayekh-Dev', icon: Github },
+    { label: 'LinkedIn', value: 'linkedin.com/in/masayekh-ahammed-akhshad-787a23183', href: 'https://linkedin.com/in/masayekh-ahammed-akhshad-787a23183', icon: Linkedin },
   ],
   services: [
     {
