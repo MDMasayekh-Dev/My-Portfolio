@@ -50,8 +50,8 @@ const portfolioContent = {
     shortName: 'MA',
     role: 'Full-stack developer / student',
     location: 'Dhaka, Bangladesh',
-    email: 'hello@arafathossain.dev',
-    phone: '+880 1700 000 000',
+    email: 'masayekhahammed@gmail.com',
+    phone: '+880 1764 364 070',
   },
   navigation: [
     { label: 'Home', href: '/' },
@@ -59,8 +59,8 @@ const portfolioContent = {
     { label: 'Projects', href: '/projects' },
   ],
   socials: [
-    { label: 'GitHub', value: 'github.com/your-handle', href: 'https://github.com/your-handle', icon: Github },
-    { label: 'LinkedIn', value: 'linkedin.com/in/your-handle', href: 'https://linkedin.com/in/your-handle', icon: Linkedin },
+    { label: 'GitHub', value: 'github.com/your-handle', href: 'https://github.com/MDMasayekh-Dev', icon: Github },
+    { label: 'LinkedIn', value: 'linkedin.com/in/your-handle', href: 'www.linkedin.com/in/masayekh-ahammed-akhshad-787a23183', icon: Linkedin },
   ],
   services: [
     {
