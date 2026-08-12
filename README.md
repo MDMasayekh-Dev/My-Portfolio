@@ -60,6 +60,8 @@ npm run build
 
 Deploy the generated `dist/` folder with GitHub Pages, or use a static hosting service such as Vercel, Netlify, or Cloudflare Pages.
 
+Live vercel Link for preview: my-portfolio-seven-gilt-46.vercel.app
+
 ## License
 
 Use and customize this portfolio for your own personal website.
