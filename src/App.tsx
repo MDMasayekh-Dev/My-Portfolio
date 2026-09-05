@@ -256,7 +256,7 @@ function OrbitArt() {
   return (
     <div className="orbit-art" aria-label="Abstract MA studio mark" role="img">
       <span className="orbit-dot" />
-      <div className="orbit-core"><img src="./public/myimage.jfif" alt={portfolioContent.person.name} /></div>
+      <div className="orbit-core"><img src="./myimage.jfif" alt={portfolioContent.person.name} /></div>
       <span className="orbit-label">ideas → interface</span>
     </div>
   );
