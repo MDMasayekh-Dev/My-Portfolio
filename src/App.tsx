@@ -39,11 +39,7 @@ type Project = {
   tags: string[];
 };
 
-/**
- * EDIT CONTENT HERE
- * Keeping the studio's copy in one place makes this portfolio easy to hand off
- * or connect to a project CMS later.
- */
+
 const portfolioContent = {
   person: {
     name: 'Masayekh Ahammed',
@@ -260,7 +256,7 @@ function OrbitArt() {
   return (
     <div className="orbit-art" aria-label="Abstract MA studio mark" role="img">
       <span className="orbit-dot" />
-      <div className="orbit-core">{portfolioContent.person.shortName}</div>
+      <div className="orbit-core"><img src="./public/myimage.jfif" alt={portfolioContent.person.name} /></div>
       <span className="orbit-label">ideas → interface</span>
     </div>
   );

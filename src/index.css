@@ -459,22 +459,18 @@
 
 .orbit-core {
   align-items: center;
-  background: hsl(var(--primary));
-  color: hsl(var(--primary-foreground));
   display: flex;
-  font-family: var(--app-font-mono);
-  font-size: 1.3rem;
-  height: 108px;
+  height: 100px;
   justify-content: center;
-  letter-spacing: -0.13em;
   position: relative;
   transform: rotate(-8deg);
-  width: 108px;
+  width: 100px;
   z-index: 2;
+  border-radius: 20%;
 }
 
 .orbit-core::before {
-  border: 1px solid hsl(var(--foreground) / 0.42);
+  
   content: '';
   inset: 8px;
   position: absolute;
